@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YbgjmJO80wCdE96PjJ5/2tMoR4mf3bgitOrh+LLkIjE2+PFXTLxfHCxjB7RhaJetKPGZ7A/0myT8RH3RrHKwpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\topvi.LAPTOP-9VLTBKPJ\\DDD\\Domain.Pedidos\\Domain.Pedidos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\topvi.LAPTOP-9VLTBKPJ\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
