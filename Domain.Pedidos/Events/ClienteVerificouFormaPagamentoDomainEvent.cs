@@ -15,4 +15,25 @@ namespace Domain.Pedidos.Events
             PedidoID = pedidoID;
         }
     }
+
+    // teste
+    // teste
+    // teste
+    // teste
+    // teste
+    // teste
+    // teste
+    // teste
+
+
+
+     // teste
+    // teste
+    // teste
+    // teste
+    // teste
+    // teste
+    // teste
+    // teste
+
 }

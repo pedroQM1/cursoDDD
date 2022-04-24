@@ -14,5 +14,15 @@ namespace Domain.Pedidos.DomainException
         public PedidoDomainException(string message, Exception innerException)
             : base(message, innerException)
         { }
+
+
+         // teste
+        // teste
+        // teste
+        // teste
+        // teste
+        // teste
+        // teste
+        // teste
     }
 }
